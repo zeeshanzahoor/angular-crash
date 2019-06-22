@@ -1,3 +1,14 @@
+import { Injectable } from '@angular/core';
+
+
+@Injectable()
+export class EventService
+{
+    getEvents(){
+        return eventList;
+    }
+}
+
 const eventList = [
     {
       id: 1,
@@ -310,5 +321,3 @@ const eventList = [
   ]
 
 
-
-  export default eventList;
