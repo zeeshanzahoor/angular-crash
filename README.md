@@ -4,15 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Topics Covered
 
--[x] Angular Components
--[x] Reusable Services
--[x] Routing
--[ ] Forms and Validation
--[ ] API calls
--[ ] Unit test
--[ ] Packaging
--[ ] more to come...
-
+- [x] Angular Components
+- [x] Reusable Services
+- [x] Routing
+- [ ] Forms and Validation
+- [ ] API calls
+- [ ] Unit test
+- [ ] Packaging
+- [ ] more to come...
 
 ## Development server
 
