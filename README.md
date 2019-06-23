@@ -10,6 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - [x] Routing
 - [x] Route Guard / Route Activator 
 - [x] Resolvers
+- [x] Feature Modules
 - [ ] Forms and Validation
 - [ ] API calls
 - [ ] Unit test

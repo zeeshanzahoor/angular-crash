@@ -12,5 +12,6 @@ export const appRoutes: Routes = [
     { path: 'events/create', component: EventCreateComponent },
     { path: 'events', component: EventListComponent, resolve: { events: EventListResolver } },
     { path: 'events/:id', component: EventDetailComponent, canActivate: [EventRouteActivator] },
+    { path: 'user', loadChildren: "./user/user.module#UserModule" },
     { path: '', redirectTo: 'events', pathMatch: 'full' },
 ]
