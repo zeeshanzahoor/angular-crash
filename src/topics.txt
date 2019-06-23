@@ -1,0 +1,7 @@
+Angular Components
+Reusable Services
+Routing
+Forms and Validation
+API calls
+Unit test
+Packaging

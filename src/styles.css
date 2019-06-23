@@ -32,3 +32,8 @@
   .toast-warning {
     background-color: #f89406;
   }
+
+  .errorMessage{
+    text-align: center;
+    margin-top: 30%
+  }
